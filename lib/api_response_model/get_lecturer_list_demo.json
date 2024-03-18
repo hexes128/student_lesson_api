@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "63dcb752a51a000026000100",
+      "name": "Albert Flores",
+      "job_title": "Demonstrator",
+      "profile_picture": "Albert Flores.com"
+    },
+    {
+      "id": "651d225b83ac05c801512f62",
+      "name": "Floyd Miles",
+      "job_title": "Lecturer",
+      "profile_picture": "Floyd Miles.com"
+    },
+    {
+      "id": "651d225b83ac05c801512f6f",
+      "name": "Savannah Nguyens",
+      "job_title": "Senior Lecturer",
+      "profile_picture": "Savannah Nguyens.com"
+    },
+    {
+      "id": "651d225b83ac05c801512f79",
+      "name": "Jenny Wilson",
+      "job_title": "Professor",
+      "profile_picture": "Jenny Wilson.com"
+    },
+    {
+      "id": "651d225b83ac05c801512f7c",
+      "name": "Neil Leveridge",
+      "job_title": "Professor",
+      "profile_picture": "Neil Leveridge.com"
+    }
+  ],
+  "msg": "success",
+  "success": true
+}

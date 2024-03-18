@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "65b9b1de4df691fa232e27be",
+      "lecturer": {
+        "id": "63dcb752a51a000026000100",
+        "name": "Albert Flores"
+      },
+      "name": "基礎程式設計",
+      "desc": "這是一堂基礎程式設計課程",
+      "week_day": "每週二",
+      "start_at": "10:00AM",
+      "end_at": "12:00PM"
+    },
+    {
+      "id": "651d225b83ac05c801512fe7",
+      "lecturer": {
+        "id": "651d225b83ac05c801512f62",
+        "name": "Floyd Miles"
+      },
+      "name": "線性代數",
+      "desc": "這是一堂線性代數課程",
+      "week_day": "每週二",
+      "start_at": "10:00AM",
+      "end_at": "12:00PM"
+    },
+    {
+      "id": "651d225b83ac05c801512f76",
+      "lecturer": {
+        "id": "651d225b83ac05c801512f6f",
+        "name": "Savannah Nguyens"
+      },
+      "name": "自動控制",
+      "desc": "這是一堂自動控制課程",
+      "week_day": "每週二",
+      "start_at": "10:00AM",
+      "end_at": "12:00PM"
+    }
+  ],
+  "msg": "success",
+  "success": true
+}
